@@ -20,7 +20,7 @@ git pull
 # How To Use Script
 ```
 cd ip-tracker
-python .py
+python ip-informasi.py
 ```
 
 
